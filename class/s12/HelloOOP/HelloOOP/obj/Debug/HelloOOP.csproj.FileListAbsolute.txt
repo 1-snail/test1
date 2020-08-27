@@ -1,0 +1,5 @@
+D:\桌面\c#sample\class\s12\HelloOOP\HelloOOP\bin\Debug\HelloOOP.dll
+D:\桌面\c#sample\class\s12\HelloOOP\HelloOOP\bin\Debug\HelloOOP.pdb
+D:\桌面\c#sample\class\s12\HelloOOP\HelloOOP\obj\Debug\HelloOOP.csprojResolveAssemblyReference.cache
+D:\桌面\c#sample\class\s12\HelloOOP\HelloOOP\obj\Debug\HelloOOP.dll
+D:\桌面\c#sample\class\s12\HelloOOP\HelloOOP\obj\Debug\HelloOOP.pdb

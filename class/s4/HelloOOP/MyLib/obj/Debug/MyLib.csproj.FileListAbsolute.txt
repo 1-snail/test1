@@ -1,0 +1,5 @@
+D:\桌面\c#sample\class\s4\HelloOOP\MyLib\bin\Debug\MyLib.dll
+D:\桌面\c#sample\class\s4\HelloOOP\MyLib\bin\Debug\MyLib.pdb
+D:\桌面\c#sample\class\s4\HelloOOP\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\桌面\c#sample\class\s4\HelloOOP\MyLib\obj\Debug\MyLib.dll
+D:\桌面\c#sample\class\s4\HelloOOP\MyLib\obj\Debug\MyLib.pdb

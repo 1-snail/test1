@@ -1,0 +1,4 @@
+D:\桌面\c#sample\class\s1\ConsoleApplication1\MyLib\bin\Debug\MyLib.dll
+D:\桌面\c#sample\class\s1\ConsoleApplication1\MyLib\bin\Debug\MyLib.pdb
+D:\桌面\c#sample\class\s1\ConsoleApplication1\MyLib\obj\Debug\MyLib.dll
+D:\桌面\c#sample\class\s1\ConsoleApplication1\MyLib\obj\Debug\MyLib.pdb

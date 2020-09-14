@@ -1,8 +1,0 @@
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\bin\Debug\MyLib.dll
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\bin\Debug\MyLib.pdb
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\桌面\c#sample\class\s1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
